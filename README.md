@@ -18,3 +18,6 @@
 - Print() fonksiyonu nedir
 - Değişkenler, tanımlanma kuralları ve type() fonksiyonu
 - Veri türleri ve İnput() fonksiyonu ile veri alma
+
+
+# 3. haftada Yapılan Çalışmalar
