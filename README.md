@@ -11,7 +11,9 @@
 - Python nedir?
 - Kodlama nedir?
 - Visiual Studio Code ve Python kurulumu
- 
+
+ <img src="https://avatars.mds.yandex.net/i?id=29d77cf41637a38b613f9e3f659d92adfc36127a-8549383-images-thumbs&n=13">
+ <img src="https://avatars.mds.yandex.net/i?id=f94846a701afb7ebf3771a0f00c193379d5d5ab7-8497035-images-thumbs&n=13">
 
 
 # 2. haftada Yapılan Çalışmalar
@@ -20,14 +22,3 @@
 - Veri türleri ve İnput() fonksiyonu ile veri alma
 
 
-# 3. haftada Yapılan Çalışmalar
-- Karşılaştırma ve Mantıksal Operatörler
-- Karar Yapıları
-- Döngüler
-
-
-
-# 4. haftada Yapılan Çalışmalar
-- Listeler ve Liste Metodları
-- Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
-- String ve String Metodları
