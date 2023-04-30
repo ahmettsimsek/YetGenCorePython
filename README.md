@@ -22,3 +22,12 @@
 - Veri türleri ve İnput() fonksiyonu ile veri alma
 
 
+# 3. haftada Yapılan Çalışmalar
+- Karşılaştırma ve Mantıksal Operatörler
+- Karar Yapıları
+- Döngüler
+
+# 4. haftada Yapılan Çalışmalar
+- Listeler ve Liste Metodları
+- Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
+- String ve String Metodları
