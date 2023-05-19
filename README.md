@@ -31,3 +31,35 @@
 - Listeler ve Liste Metodları
 - Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
 - String ve String Metodları
+
+
+# 5. haftada Yapılan Çalışmalar
+- List Comprehension
+- Fonksiyonlar ve Argüman
+- return, *args, **kwargs ve pass deyimi
+- Global ve Yerel Değişkenler , Lambda Gösterimi
+
+
+# 6. haftada Yapılan Çalışmalar
+- Modüller ve Math Modülü
+- Gömülü Fonksiyonlar
+- Hata Yönetimi
+
+# 7. haftada Yapılan Çalışmalar
+- Tekrar haftası
+
+# 8. haftada Yapılan Çalışmalar
+- Dosya İşlemleri 1
+- Dosya İşlemleri 2
+- Nesne Yönelimli Programlama 1
+
+
+# 9. haftada Yapılan Çalışmalar
+- Nesne Yönelimli Programlama Method Kullanımı
+- Inheritance
+
+# 10. haftada Yapılan Çalışmalar
+- Numpy Nedir ve Neden Numpy Kullanıyoruz?
+- Temel Numpy Özellikleri
+- Numpy Detayları
+ 
